@@ -11,8 +11,10 @@ created this blog.
 
 Installed ollama and qwen3:4b. Works in VS Code.
 
+* https://www.exxactcorp.com/blog/deep-learning/run-llms-locally-with-continue-vs-code-extension
 * https://ollama.com/download/windows
-* Adam Shedivy macht das auf IBM i: https://ajshedivy.notion.site/
+* https://docs.continue.dev/customize/model-providers/top-level/ollama
+* Adam Shedivy does it on IBM i: https://ajshedivy.notion.site/
 
 ## 2025-11
 
