@@ -3,7 +3,7 @@ Blog of Anton Gombkötö
 
 ## 2025-12-28
 https://github.com/AG1965/CPYSCN2SVG allows you to convert outfiles created with STRCPYSCN to svg-files, like this one:
-![svg image created with CPYSCN2SVG](https://github.com/AG1965/CPYSCN2SVG/blob/main/samples/cpyscn01-002.svg)
+![svg image created with CPYSCN2SVG](cpyscn01-002.svg)
 
 ## 2025-12-21
 
