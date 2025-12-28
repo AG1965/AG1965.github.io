@@ -1,5 +1,5 @@
-# AG1965.github.io
-Blog of Anton Gombkötö
+![Anton Gombkötö](ANGO_200x200.png)
+# AG1965.github.io - Blog of Anton Gombkötö
 
 ## 2025-12-28
 https://github.com/AG1965/CPYSCN2SVG allows you to convert outfiles created with STRCPYSCN to svg-files, like this one:
