@@ -33,8 +33,6 @@
 <text x="528" y="22" class="t HI">e</text>
 <text x="540" y="22" class="t HI">n</text>
 <text x="552" y="22" class="t HI">ü</text>
-<line x1="23" y1="45" x2="35" y2="45" class="l_UL" />
-<line x1="131" y1="45" x2="143" y2="45" class="l_UL" />
 <text x="732" y="44" class="t">S</text>
 <text x="744" y="44" class="t">y</text>
 <text x="756" y="44" class="t">s</text>
@@ -363,24 +361,24 @@
 <text x="24" y="440" class="t">=</text>
 <text x="36" y="440" class="t">=</text>
 <text x="48" y="440" class="t">></text>
-<text x="72" y="440" class="t UL">w</text>
 <line x1="71" y1="441" x2="83" y2="441" class="l_UL" />
-<text x="84" y="440" class="t UL">r</text>
+<text x="72" y="440" class="t UL">w</text>
 <line x1="83" y1="441" x2="95" y2="441" class="l_UL" />
-<text x="96" y="440" class="t UL">k</text>
+<text x="84" y="440" class="t UL">r</text>
 <line x1="95" y1="441" x2="107" y2="441" class="l_UL" />
-<text x="108" y="440" class="t UL">a</text>
+<text x="96" y="440" class="t UL">k</text>
 <line x1="107" y1="441" x2="119" y2="441" class="l_UL" />
-<text x="120" y="440" class="t UL">c</text>
+<text x="108" y="440" class="t UL">a</text>
 <line x1="119" y1="441" x2="131" y2="441" class="l_UL" />
-<text x="132" y="440" class="t UL">t</text>
+<text x="120" y="440" class="t UL">c</text>
 <line x1="131" y1="441" x2="143" y2="441" class="l_UL" />
-<text x="144" y="440" class="t UL">j</text>
+<text x="132" y="440" class="t UL">t</text>
 <line x1="143" y1="441" x2="155" y2="441" class="l_UL" />
-<text x="156" y="440" class="t UL">o</text>
+<text x="144" y="440" class="t UL">j</text>
 <line x1="155" y1="441" x2="167" y2="441" class="l_UL" />
-<text x="168" y="440" class="t UL">b</text>
+<text x="156" y="440" class="t UL">o</text>
 <line x1="167" y1="441" x2="179" y2="441" class="l_UL" />
+<text x="168" y="440" class="t UL">b</text>
 <line x1="179" y1="441" x2="191" y2="441" class="l_UL" />
 <line x1="191" y1="441" x2="203" y2="441" class="l_UL" />
 <line x1="203" y1="441" x2="215" y2="441" class="l_UL" />
