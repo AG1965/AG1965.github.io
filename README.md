@@ -1,6 +1,11 @@
 ![Anton Gombkötö](ANGO_200x200.png)
 # AG1965.github.io - Blog of Anton Gombkötö
 
+## 2026-01-12
+The next BOB-love-story - but not with RPG, after Python, it's now bash!
+Folks, nobody needs (or better: will pay) BOB for Python, bash and so on.
+https://midrange.de/bob-ich-bin-dein-fan/
+
 ## 2025-12-28
 https://github.com/AG1965/CPYSCN2SVG allows you to convert outfiles created with STRCPYSCN to svg-files, like this one:
 ![svg image created with CPYSCN2SVG](cpyscn01-002.svg)
