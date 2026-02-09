@@ -1,6 +1,12 @@
 ![Anton Gombkötö](ANGO_200x200.png)
 # AG1965.github.io - Blog of Anton Gombkötö
 
+## 2026-02-08
+added https://github.com/AG1965/markMaidViewer which was improved by BOB.
+
+## 2026-02-03  
+Got my API key and started to play with BOB
+
 ## 2026-01-12
 The next BOB-love-story - but not with RPG, after Python, it's now bash!
 Folks, nobody needs (or better: will pay) BOB for Python, bash and so on.
