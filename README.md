@@ -1,6 +1,10 @@
 ![Anton Gombkötö](ANGO_200x200.png)
 # AG1965.github.io - Blog of Anton Gombkötö
 
+## 2026-02-17/18
+became a common.org member to be able to attend FOCUS2026 and especially watch Sebastién Julliard explain how to create your own VS Code extension and use the Code for IBM i extension's API to do things on an IBM i.
+But the other presenters were also very good, like Simon Hutchinson, Scott Forstie, Ryan Moeller and a lot more.
+
 ## 2026-02-08
 added https://github.com/AG1965/markMaidViewer which was improved by BOB.
 
@@ -17,13 +21,9 @@ https://github.com/AG1965/CPYSCN2SVG allows you to convert outfiles created with
 ![svg image created with CPYSCN2SVG](cpyscn01-002.svg)
 
 ## 2025-12-21
-
 created this blog.
 
-
-
 ## 2025-12
-
 Installed ollama and qwen3:4b. Works in VS Code.
 
 * https://www.exxactcorp.com/blog/deep-learning/run-llms-locally-with-continue-vs-code-extension
